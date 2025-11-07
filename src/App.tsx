@@ -1,10 +1,8 @@
-import { useState } from 'react'
-
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <div>Hello</div>
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>Salom talabalar</h1>
+    </div>
   )
 }
 
