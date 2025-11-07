@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import './App.css'; // Agar CSS qo'shmoqchi bo'lsangiz
 
 function App() {
